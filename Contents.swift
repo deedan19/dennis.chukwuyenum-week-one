@@ -184,6 +184,9 @@ class Customer {
 
 
 /* Pillars of OOP used */
+ Inheritance - The SavingsAccount and CurrentAccount inherited the the Account Class
+ 
+ 
 */
 
 
